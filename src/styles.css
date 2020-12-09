@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url("blockchain.jpg");
+  height: 100%;
+  width: 100%;
+}
