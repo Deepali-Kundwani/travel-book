@@ -1,2 +1,2 @@
 # travel-book
-you can see which places to visit by selecting a particular country/city.
+Select any of the country/city and get the list of places you must visit once.
