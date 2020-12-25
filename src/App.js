@@ -6,7 +6,7 @@ var emojiDictionary = {
   b: ["Europe Musee ", "Jardin Des ", "Le Marais", "Notre Dame"],
   c: ["Thailand ", "Similan Islands", "Mae Hong Son", "Nakhon Ratchasima"],
   d: ["Dubai Souks", " Burj Khalifa", "Dubai Frame", "Shindagha Museum"],
-  e: ["Ladakh Rupshu Trek", "Chadar Trek", "Hemis Trek", "Kharnak Trek"]
+  e: ["Ladakh Rupshu Trek", "Chadar Trek", "Hemis Trek", "Kharnak Tre"]
 };
 var meaning2 = 0;
 //var emojisWeKnow = Object.keys(emojiDictionary);
